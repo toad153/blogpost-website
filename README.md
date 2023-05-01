@@ -8,23 +8,25 @@ To run this project on your local machine, you need to follow these steps:
 
 Clone the repository by running the following command in your terminal:
 
-git clone https://github.com/<your-github-username>/blogpost-website.git
+'git clone https://github.com/toad153/blogpost-website.git'
 
 Change the directory to the project directory using the following command:
 
-cd blogpost-website
+'cd blogpost-website'
 
 Install the dependencies by running the following command:
 
-npm install
+'npm install'
 
 Create a .env file in the root directory of the project and set the environment variables according to your own configuration. The following variables are required:
+
 MONGODB_URI=<your-mongodb-uri>
+
 PORT=<your-server-port>
 
 Start the server by running the following command:
 
-node app.js
+'node app.js'
 
 Open your web browser and navigate to http://localhost:<your-server-port> to view the website.
 
