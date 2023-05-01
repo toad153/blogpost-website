@@ -33,7 +33,7 @@ To run this project on your local machine, you need to follow these steps:
 
 ## Usage
 
-The website allows users to view existing blog posts, as well as create new ones. To create a new post, click on the "New Post" button in the navigation bar, and fill out the form with the post title and content. Click on the "Submit" button to save the post.
+The website allows users to view existing blog posts, as well as create new ones. To create a new post, go to url and add /create, and fill out the form with the post title and content. Click on the "Submit" button to save the post.
 
 ## Contributing
 
