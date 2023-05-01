@@ -8,7 +8,7 @@ To run this project on your local machine, you need to follow these steps:
 
 1. Clone the repository by running the following command in your terminal: 
 
-    `git clone https://blogpost-website-production.up.railway.app/`
+    `git clone https://github.com/toad153/blogpost-website.git`
 
 2. Change the directory to the project directory using the following command:
 
