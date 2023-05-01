@@ -28,8 +28,9 @@ node app.js
 
 Open your web browser and navigate to http://localhost:<your-server-port> to view the website.
 
-Usage
+# Usage
+
 The website allows users to view existing blog posts, as well as create new ones. To create a new post, click on the "New Post" button in the navigation bar, and fill out the form with the post title and content. Click on the "Submit" button to save the post.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+# License
+  This project is licensed under the MIT License. See the LICENSE file for more information.
