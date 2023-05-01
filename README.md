@@ -2,7 +2,8 @@
 
 This repository contains the code for a simple blog website that allows users to create new posts. The website was built using HTML, CSS, Node.js, Express, and MongoDB.
 
-#Installation
+# Installation
+
 To run this project on your local machine, you need to follow these steps:
 
 Clone the repository by running the following command in your terminal:
